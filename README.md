@@ -14,6 +14,8 @@ It allows users to search for any city in the world and view real-time weather i
 - HTML5  
 - CSS3  
 - JavaScript (ES6)  
-- OpenWeatherMap API  
-
+- OpenWeatherMap API
+  
+**Author:** Ruth Nzikwikiza  
+[GitHub Profile](https://github.com/RuthNzikwikiza)
 
